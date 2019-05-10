@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
+//  AppDelegate.swift
 //  Notes
 //
-//  Created by Irina on 7/30/17.
-//  Copyright © 2017 Apple Developer. All rights reserved.
+//  Created by Hooman Ramezani on 2019-04-19.
+//  Copyright © 2019 Hooman Ramezani. All rights reserved.
 //
 
 import UIKit
