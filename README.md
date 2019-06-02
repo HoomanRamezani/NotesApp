@@ -8,7 +8,7 @@ begin writing whatever they desire.
   - Photos can be attached to notes that is able to be seen on the main menu
   - Visually attractive user interface
 
-
+![](images/MainMenU.png)
 
 ## Installation
   1. Download the project and drop it into a folder on your computer
