@@ -8,7 +8,7 @@ begin writing whatever they desire.
   - Photos can be attached to notes that is able to be seen on the main menu
   - Visually attractive user interface
 
-![](images/MainMenU.png)
+<img src="Screenshots/Loading%20Screen.png" width = 250)> <img src="Screenshots/MainMenu.png" width = 250)> <img src="Screenshots/NoteDetails.png" width = 250)>
 
 ## Installation
   1. Download the project and drop it into a folder on your computer
