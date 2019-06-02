@@ -1,5 +1,5 @@
-# NotePad
-NotePad is an elegant notes application for iOS devices that provides users with a simple and 
+# Notes
+Notes is an elegant notes application for iOS devices that provides users with a simple and 
 intuitive note taking expierience. The app is quick and easy to open and allows the user to instantly
 begin writing whatever they desire.
 
