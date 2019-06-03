@@ -4,7 +4,7 @@ intuitive note taking expierience. The app is quick and easy to open and allows 
 begin writing whatever they desire.
 
 ## Features
-  - Notes are able to be quickly created and saved or removed on main menu
+  - Notes can be quickly created and saved or removed on main menu
   - Photos can be attached to notes that is able to be seen on the main menu
   - Visually attractive user interface
 
